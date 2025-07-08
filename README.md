@@ -45,8 +45,8 @@ pip install openai matplotlib seaborn numpy pandas ipywidgets
 
 #### Option 1: Local Jupyter
 ```bash
-git clone https://github.com/yourusername/llm-perplexity-exploration
-cd llm-perplexity-exploration
+git clone https://github.com/yourusername/perplexityViews
+cd perplexityViews
 jupyter lab
 ```
 
