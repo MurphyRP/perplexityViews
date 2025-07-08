@@ -231,8 +231,8 @@ MIT License - Feel free to use for research, education, and commercial applicati
 
 Questions? Ideas? Found a bug?
 - Create an issue in this repository
-- Connect on LinkedIn: [Your LinkedIn Profile]
-- Follow the research: [Your preferred contact method]
+- Connect on LinkedIn: EDIT ME!!
+- Follow the research: rob.murphy@couchbase.com
 
 ---
 
